@@ -12,3 +12,7 @@
 #唐巧
 --------
 1. [唐巧的技术博客](http://blog.devtang.com)
+
+#王巍
+--------
+1. [个人主页](http://onevcat.com)
