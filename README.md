@@ -1,0 +1,1 @@
+1.代码中Swift1.2表示基于Swift1.2（Xcode6.3及之后版本）语法修改。2.代码中Swift1.1表示基于Swift1.1（Xcode6.2及之前版本）语法修改。3.代码中Swift表示适用于Swift1.1和Swift1.2。
